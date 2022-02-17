@@ -1,5 +1,5 @@
 {
-  "name": "react-hls-player",
+  "name": "@panelist/react-hls-player",
   "version": "3.0.7",
   "description": "A simple and easy to use react component for playing an hls live stream",
   "main": "./dist/index.js",
